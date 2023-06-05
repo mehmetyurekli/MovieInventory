@@ -1,0 +1,15 @@
+1972, The Godfather, Crime, Francis Ford Coppola, {(Marlon Brando, Male, USA)(Al Pacino, Male, USA)}
+1983, Bad Boys, Drama, Rick Rosenthal, {(Sean Penn, Male, USA)(Reni Santoni, Male, USA)}
+1994, The Shawshank Redemption, Drama, Frank Darabont, {(Tim Robbins, Male, USA)(Morgan Freeman, Male, USA)}
+1995, Bad Boys, Action, Michael Bay, {(Will Smith, Male, USA)(Martin Lawrence, Male, USA)}
+1999, Fight Club, Drama, David Fincher, {(Brad Pitt, Male, USA)(Edward Norton, Male, USA)}
+1999, The Matrix, Sci-Fi, Lana-Lilly Wachowski, {(Keanu Reeves, Male, Lebanon)(Carrie-Anne Moss, Female, Canada)(Laurence Fishburne, Male, USA)}
+2003, LOTR: The Return of the King, Fantasy, Peter Jackson, {(Elijah Wood, Male, USA)(Viggo Mortensen, Male, USA)(Ian McKellen, Male, UK)}
+2005, Pardon, Comedy, Mert Baykal, {(Ferhan Şensoy, Male, Turkey)(Rasim Öztekin, Male, Turkey)(Ali Çatalbaş, Male, Turkey)}
+2010, Eyvah Eyvah, Comedy, Hakan Algül, {(Ata Demirer, Male, Turkey)(Demet Akbağ, Female, Turkey)(Salih Kalyon, Male, Turkey)}
+2011, Drive, Action, Nicolas Winding Refn, {(Ryan Gosling, Male, Canada)(Carey Mulligan, Female, UK)}
+2012, Eyvah Eyvah 2, Comedy, Hakan Algül, {(Ata Demirer, Male, Turkey)(Demet Akbağ, Female, Turkey)}
+2016, Kung Fu Panda, Animation/Comedy, Jennifer Yuh Nelson, {(Jack Black, Male, USA)}
+2016, La La Land, Musical, Damien Chazelle, {(Emma Stone, Female, USA)(Ryan Gosling, Male, Canada)}
+2016, Zoolander 2, Comedy, Ben Stiller, {(Ben Stiller, Male, USA)}
+2019, 1917, War, Sam Mendes, {(George MacKay, Male, UK)(Dean-Charles Chapman, Male, UK)}
